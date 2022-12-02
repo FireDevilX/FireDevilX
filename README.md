@@ -1,8 +1,6 @@
-- 👋 Hi, I’m FireDevilX
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning {Hidden}
-- 💞️ I’m looking to collaborate on Minecraft/Eaglercraft
-- 📫 How to reach me? Email me at fire@firedevilx.8shield.net
+Hey, I'm FireDevilX, I like coding HTML and stuff yuh.
+Follow me on Replit[https://replit.com/@FireDevilX]
+Subscribe to me YouTube[https://youtube.com/@ljflashman9068]
 
 <!---
 FireDevilX/FireDevilX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
