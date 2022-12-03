@@ -4,7 +4,7 @@
 
 ## Subscribe to me on [YouTube](https://youtube.com/@ljflashman9068)
 
-## Check out my [Minecraft server](https://firecraft-client.firedevilx.repl.co)!
+## Check out my [Minecraft server](https://resclient.vercel.app/?server=wss://firegodsmp.fire-principals.repl.co/server)!
 
 <!---
 FireDevilX/FireDevilX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
