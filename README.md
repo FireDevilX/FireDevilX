@@ -4,7 +4,7 @@
 
 - **Subscribe to me on [YouTube](https://youtube.com/@101FBIagent)**
 
-- <b>Follow me on <a rel="me" href="https://social.vivaldi.net/@FireDevilX">Mastodn</a></b>
+- <b>Follow me on <a rel="me" href="https://social.vivaldi.net/@FireDevilX">Mastodon</a></b>
 
 
 
