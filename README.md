@@ -5,6 +5,10 @@
 - **Subscribe to me on [YouTube](https://youtube.com/@101FBIagent)**
 
 - <b>Follow me on <a rel="me" href="https://social.vivaldi.net/@FireDevilX">Mastodon</a></b>
+<hr>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=FireDevilX&label=Profile%20Views&color=2&icon=0&pretty=false" />
+</a>
 
 
 
