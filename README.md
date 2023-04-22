@@ -6,8 +6,7 @@
 
 - <b>Follow me on <a rel="me" href="https://social.vivaldi.net/@FireDevilX">Mastodon</a></b>
 <hr>
-[![](https://visitcount.itsvg.in/api?id=FireDevilX&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
+now go away
 
 
 <!---
